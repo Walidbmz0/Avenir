@@ -1,7 +1,7 @@
 ---
 title: Spotify Clone
 publishDate: 2023-03-15 00:00:00
-img: /public/assets/stock-2.jpg
+img: /assets/stock-2.jpg
 img_alt: Logo spotify
 description: |
   Le projet est un clone de spotify

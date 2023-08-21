@@ -1,7 +1,7 @@
 ---
 title: Sole Frenzy
 publishDate: 2023-06-26 00:00:00
-img: /public/assets/stock-1.jpg
+img: /assets/stock-1.jpg
 img_alt: Accueil de Sole Frenzy
 description: |
   Find your sole mate at Sole Frenzy
