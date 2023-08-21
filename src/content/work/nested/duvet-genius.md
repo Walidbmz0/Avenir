@@ -1,7 +1,7 @@
 ---
 title: Application de rappels d’événements
 publishDate: 2023-03-23 00:00:00
-img: /public/assets/stock-3.jpg
+img: /assets/stock-3.jpg
 img_alt: Screen du projet
 description: |
   Application Web permettant d'ajouter des événements sur une carte
